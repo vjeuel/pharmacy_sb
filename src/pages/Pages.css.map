@@ -1,9 +1,9 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "AAAA,AAAA,UAAU,CAAC;EACV,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,MAAM;CACd",
     "sources": [
-        "Pages.scss"
+        "pages.scss"
     ],
     "names": [],
-    "file": "Pages.css"
+    "file": "pages.css"
 }
