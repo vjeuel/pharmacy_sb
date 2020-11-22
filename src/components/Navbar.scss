@@ -1,0 +1,19 @@
+.containerNav {
+	margin-top: 5rem;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 2rem;
+	justify-items: center;
+}
+
+.link {
+	font-family: 'Roboto', sans-serif;
+	font-size: 2rem;
+	text-align: center;
+	text-decoration: none;
+	color: white;
+	width: 15rem;
+	padding: 0.5rem;
+	border-radius: 1rem;
+	background-color: grey;
+}
