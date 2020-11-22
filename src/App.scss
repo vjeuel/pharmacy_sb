@@ -1,3 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,300&display=swap');
+
+// COLORS
+$redColor: #eb0000;
+$whiteColor: #f2f4f0;
+$greyColor: #6e6e6e;
+
+$blackColor: #252525;
+
+// GENERAL
 html {
 	font-size: 10px;
+	color: $blackColor;
+}
+
+h1,
+h2,
+h3,
+h4 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+	color: $greyColor;
+}
+
+h1 {
+	font-size: 5rem;
+	text-align: center;
+}
+
+h2 {
+	font-size: 3.5rem;
+}
+
+h3 {
+	font-size: 3rem;
+}
+
+h4 {
+	font-size: 2.5rem;
+}
+
+p {
+	font-family: 'Roboto', sans-serif;
+	font-size: 1.5rem;
+	line-height: 1.5;
 }

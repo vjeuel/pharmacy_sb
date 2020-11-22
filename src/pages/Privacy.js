@@ -4,7 +4,7 @@ import './Pages.css';
 function Privacy() {
 	return (
 		<div className='container'>
-			<h2>Privacy Policy</h2>
+			<h1>Privacy Policy</h1>
 			<p>Last updated: November 20, 2020</p>
 			<p>
 				This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your
@@ -13,7 +13,7 @@ function Privacy() {
 			<p>
 				We use Your Personal data to provide and improve the Service. By using the Service, You agree to the
 				collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been
-				created with the help of the{' '}
+				created with the help of the&nbsp;
 				<a
 					href='https://www.privacypolicies.com/privacy-policy-generator/'
 					target='_blank'
@@ -22,7 +22,7 @@ function Privacy() {
 				</a>
 				.
 			</p>
-			<h3>Interpretation and Definitions</h3>
+			<h2>Interpretation and Definitions</h2>
 			<h3>Interpretation</h3>
 			<p>
 				The words of which the initial letter is capitalized have meanings defined under the following conditions.
@@ -96,8 +96,8 @@ function Privacy() {
 				<li>
 					<p>
 						<strong>Website</strong> refers to Portfolio, accessible from{' '}
-						<a href='grafk.design' target='_blank' rel='noopener noreferrer'>
-							grafk.design
+						<a href='pharmacysb.net' target='_blank' rel='noopener noreferrer'>
+							pharmacysb.net
 						</a>
 					</p>
 				</li>
@@ -108,9 +108,9 @@ function Privacy() {
 					</p>
 				</li>
 			</ul>
-			<h3>Collecting and Using Your Personal Data</h3>
+			<h2>Collecting and Using Your Personal Data</h2>
 			<h3>Types of Data Collected</h3>
-			<h3>Personal Data</h3>
+			<h4>Personal Data</h4>
 			<p>
 				While using Our Service, We may ask You to provide Us with certain personally identifiable information that
 				can be used to contact or identify You. Personally identifiable information may include, but is not limited
@@ -127,7 +127,7 @@ function Privacy() {
 					<p>Usage Data</p>
 				</li>
 			</ul>
-			<h3>Usage Data</h3>
+			<h4>Usage Data</h4>
 			<p>Usage Data is collected automatically when using the Service.</p>
 			<p>
 				Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address),
@@ -144,7 +144,7 @@ function Privacy() {
 				We may also collect information that Your browser sends whenever You visit our Service or when You access
 				the Service by or through a mobile device.
 			</p>
-			<h3>Tracking Technologies and Cookies</h3>
+			<h4>Tracking Technologies and Cookies</h4>
 			<p>
 				We use Cookies and similar tracking technologies to track the activity on Our Service and store certain
 				information. Tracking technologies used are beacons, tags, and scripts to collect and track information and
@@ -152,30 +152,36 @@ function Privacy() {
 			</p>
 			<ul>
 				<li>
-					<strong>Cookies or Browser Cookies.</strong> A cookie is a small file placed on Your Device. You can
-					instruct Your browser to refuse all Cookies or to indicate when a Cookie is being sent. However, if You
-					do not accept Cookies, You may not be able to use some parts of our Service. Unless you have adjusted
-					Your browser setting so that it will refuse Cookies, our Service may use Cookies.
+					<p>
+						<strong>Cookies or Browser Cookies.</strong> A cookie is a small file placed on Your Device. You can
+						instruct Your browser to refuse all Cookies or to indicate when a Cookie is being sent. However, if
+						You do not accept Cookies, You may not be able to use some parts of our Service. Unless you have
+						adjusted Your browser setting so that it will refuse Cookies, our Service may use Cookies.
+					</p>
 				</li>
 				<li>
-					<strong>Flash Cookies.</strong> Certain features of our Service may use local stored objects (or Flash
-					Cookies) to collect and store information about Your preferences or Your activity on our Service. Flash
-					Cookies are not managed by the same browser settings as those used for Browser Cookies. For more
-					information on how You can delete Flash Cookies, please read "Where can I change the settings for
-					disabling, or deleting local shared objects?" available at{' '}
-					<a
-						href='https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html#main_Where_can_I_change_the_settings_for_disabling__or_deleting_local_shared_objects_'
-						target='_blank'
-						rel='noopener noreferrer'>
-						https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html#main_Where_can_I_change_the_settings_for_disabling__or_deleting_local_shared_objects_
-					</a>
+					<p>
+						<strong>Flash Cookies.</strong> Certain features of our Service may use local stored objects (or Flash
+						Cookies) to collect and store information about Your preferences or Your activity on our Service.
+						Flash Cookies are not managed by the same browser settings as those used for Browser Cookies. For more
+						information on how You can delete Flash Cookies, please read "Where can I change the settings for
+						disabling, or deleting local shared objects?" available at{' '}
+						<a
+							href='https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html#main_Where_can_I_change_the_settings_for_disabling__or_deleting_local_shared_objects_'
+							target='_blank'
+							rel='noopener noreferrer'>
+							https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html#main_Where_can_I_change_the_settings_for_disabling__or_deleting_local_shared_objects_
+						</a>
+					</p>
 				</li>
 				<li>
-					<strong>Web Beacons.</strong> Certain sections of our Service and our emails may contain small electronic
-					files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that
-					permit the Company, for example, to count users who have visited those pages or opened an email and for
-					other related website statistics (for example, recording the popularity of a certain section and
-					verifying system and server integrity).
+					<p>
+						<strong>Web Beacons.</strong> Certain sections of our Service and our emails may contain small
+						electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel
+						gifs) that permit the Company, for example, to count users who have visited those pages or opened an
+						email and for other related website statistics (for example, recording the popularity of a certain
+						section and verifying system and server integrity).
+					</p>
 				</li>
 			</ul>
 			<p>
@@ -289,35 +295,47 @@ function Privacy() {
 			<p>We may share Your personal information in the following situations:</p>
 			<ul>
 				<li>
-					<strong>With Service Providers:</strong> We may share Your personal information with Service Providers to
-					monitor and analyze the use of our Service, to contact You.
+					<p>
+						<strong>With Service Providers:</strong> We may share Your personal information with Service Providers
+						to monitor and analyze the use of our Service, to contact You.
+					</p>
 				</li>
 				<li>
-					<strong>For business transfers:</strong> We may share or transfer Your personal information in connection
-					with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or
-					a portion of Our business to another company.
+					<p>
+						<strong>For business transfers:</strong> We may share or transfer Your personal information in
+						connection with, or during negotiations of, any merger, sale of Company assets, financing, or
+						acquisition of all or a portion of Our business to another company.
+					</p>
 				</li>
 				<li>
-					<strong>With Affiliates:</strong> We may share Your information with Our affiliates, in which case we
-					will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any
-					other subsidiaries, joint venture partners or other companies that We control or that are under common
-					control with Us.
+					<p>
+						<strong>With Affiliates:</strong> We may share Your information with Our affiliates, in which case we
+						will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and
+						any other subsidiaries, joint venture partners or other companies that We control or that are under
+						common control with Us.
+					</p>
 				</li>
 				<li>
-					<strong>With business partners:</strong> We may share Your information with Our business partners to
-					offer You certain products, services or promotions.
+					<p>
+						<strong>With business partners:</strong> We may share Your information with Our business partners to
+						offer You certain products, services or promotions.
+					</p>
 				</li>
 				<li>
-					<strong>With other users:</strong> when You share personal information or otherwise interact in the
-					public areas with other users, such information may be viewed by all users and may be publicly
-					distributed outside. If You interact with other users or register through a Third-Party Social Media
-					Service, Your contacts on the Third-Party Social Media Service may see Your name, profile, pictures and
-					description of Your activity. Similarly, other users will be able to view descriptions of Your activity,
-					communicate with You and view Your profile.
+					<p>
+						<strong>With other users:</strong> when You share personal information or otherwise interact in the
+						public areas with other users, such information may be viewed by all users and may be publicly
+						distributed outside. If You interact with other users or register through a Third-Party Social Media
+						Service, Your contacts on the Third-Party Social Media Service may see Your name, profile, pictures
+						and description of Your activity. Similarly, other users will be able to view descriptions of Your
+						activity, communicate with You and view Your profile.
+					</p>
 				</li>
 				<li>
-					<strong>With Your consent</strong>: We may disclose Your personal information for any other purpose with
-					Your consent.
+					<p>
+						<strong>With Your consent</strong>: We may disclose Your personal information for any other purpose
+						with Your consent.
+					</p>
 				</li>
 			</ul>
 			<h3>Retention of Your Personal Data</h3>
@@ -350,33 +368,43 @@ function Privacy() {
 				personal information.
 			</p>
 			<h3>Disclosure of Your Personal Data</h3>
-			<h3>Business Transactions</h3>
+			<h4>Business Transactions</h4>
 			<p>
 				If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We
 				will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy
 				Policy.
 			</p>
-			<h3>Law enforcement</h3>
+			<h4>Law enforcement</h4>
 			<p>
 				Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so
 				by law or in response to valid requests by public authorities (e.g. a court or a government agency).
 			</p>
-			<h3>Other legal requirements</h3>
+			<h4>Other legal requirements</h4>
 			<p>The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:</p>
 			<ul>
-				<li>Comply with a legal obligation</li>
-				<li>Protect and defend the rights or property of the Company</li>
-				<li>Prevent or investigate possible wrongdoing in connection with the Service</li>
-				<li>Protect the personal safety of Users of the Service or the public</li>
-				<li>Protect against legal liability</li>
+				<li>
+					<p>Comply with a legal obligation</p>
+				</li>
+				<li>
+					<p>Protect and defend the rights or property of the Company</p>
+				</li>
+				<li>
+					<p>Prevent or investigate possible wrongdoing in connection with the Service</p>
+				</li>
+				<li>
+					<p>Protect the personal safety of Users of the Service or the public</p>
+				</li>
+				<li>
+					<p>Protect against legal liability</p>
+				</li>
 			</ul>
-			<h3>Security of Your Personal Data</h3>
+			<h4>Security of Your Personal Data</h4>
 			<p>
 				The security of Your Personal Data is important to Us, but remember that no method of transmission over the
 				Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable
 				means to protect Your Personal Data, We cannot guarantee its absolute security.
 			</p>
-			<h3>Your California Privacy Rights (California's Shine the Light law)</h3>
+			<h2>Your California Privacy Rights (California's Shine the Light law)</h2>
 			<p>
 				Under California Civil Code Section 1798 (California's Shine the Light law), California residents with an
 				established business relationship with us can request information once a year about sharing their Personal
@@ -386,7 +414,7 @@ function Privacy() {
 				If you'd like to request more information under the California Shine the Light law, and if You are a
 				California resident, You can contact Us using the contact information provided below.
 			</p>
-			<h3>California Privacy Rights for Minor Users (California Business and Professions Code Section 22581)</h3>
+			<h2>California Privacy Rights for Minor Users (California Business and Professions Code Section 22581)</h2>
 			<p>
 				California Business and Professions Code section 22581 allow California residents under the age of 18 who
 				are registered users of online sites, services or applications to request and obtain removal of content or
@@ -400,7 +428,7 @@ function Privacy() {
 				Be aware that Your request does not guarantee complete or comprehensive removal of content or information
 				posted online and that the law may not permit or require removal in certain circumstances.
 			</p>
-			<h3>Links to Other Websites</h3>
+			<h2>Links to Other Websites</h2>
 			<p>
 				Our Service may contain links to other websites that are not operated by Us. If You click on a third party
 				link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy
@@ -410,7 +438,7 @@ function Privacy() {
 				We have no control over and assume no responsibility for the content, privacy policies or practices of any
 				third party sites or services.
 			</p>
-			<h3>Changes to this Privacy Policy</h3>
+			<h2>Changes to this Privacy Policy</h2>
 			<p>
 				We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new
 				Privacy Policy on this page.
@@ -423,14 +451,16 @@ function Privacy() {
 				You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy
 				are effective when they are posted on this page.
 			</p>
-			<h3>Contact Us</h3>
+			<h2>Contact Us</h2>
 			<p>If you have any questions about this Privacy Policy, You can contact us:</p>
 			<ul>
 				<li>
-					By visiting this page on our website:{' '}
-					<a href='www.pharmacysb.net/privacy' target='_blank' rel='noopener noreferrer'>
-						www.pharmacysb.net/privacy
-					</a>
+					<p>
+						By visiting this page on our website:{' '}
+						<a href='www.pharmacysb.net/privacy' target='_blank' rel='noopener noreferrer'>
+							www.pharmacysb.net/privacy
+						</a>
+					</p>
 				</li>
 			</ul>
 		</div>
